@@ -5,7 +5,7 @@ title: Ming Huang
 description: Ming's perosonal website,use Jekyll and github pages.
 keywords: Ming,Jekyll,github,gh-pages
 
-img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /static/assets/img/blog 
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
@@ -29,25 +29,25 @@ author:  # change following line to your infomation.
   desc: Introduce myself will be here.  # Describe yourself.
 
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  #name: jalpc
-  #public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+# disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  # name: jalpc
+  # public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
 
 # analytics
 ## google analytics
-ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+# ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
   # id:
 
 ## google optimize
-go:
+# go:
   # id:
 
 ## growingIO
-gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+# gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+# donation: on  # type 'on'/'off' to choice display donation button at post page or not
 
 
 # Build settings
