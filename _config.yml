@@ -1,19 +1,17 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Jalpc
-description: Jack's blog,use Jekyll and github pages.
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
-#baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://mingh2.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
-# url: http://127.0.0.1:4000
- img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+title: Ming Huang
+description: Ming's perosonal website,use Jekyll and github pages.
+keywords: Ming,Jekyll,github,gh-pages
+
+img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+  name: Ming Huang  # Be used at blog posts' author.
+  first_name: Ming  # Be used at index page about me section.
+  last_name: Huang  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: jarrekk  # Leave blank if you don't have now
   linkedin_id: kun-jia-991264a2 # Leave blank if you don't have now
