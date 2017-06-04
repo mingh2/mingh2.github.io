@@ -14,7 +14,7 @@
   job:
     detail: Mobile Application and Website Developer
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-mobile
 
 - name:
     detail: Gentle LLC
@@ -25,9 +25,9 @@
         basic User Authentication and Login System for company’s internal usage
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: July. 2013 - Sept. 2013
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Assistant - Intern
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-user-circle
