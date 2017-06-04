@@ -27,7 +27,9 @@ author:
   skill_icon2:
     - name: icon-shell
     - name: icon-mobile-device
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: Currently a senior student from the University of California, Irvine, I am studying Computer Science and specializing in
+  both Information and Artificial Intelligence. Even though my main interest is artificial intelligence, I have done researches
+  and projects related to databases and mobile application. This website will tell you everything about me!  # Describe yourself.
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -47,8 +49,8 @@ author:
 # gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
   # id:
 
-## donation
-# donation: on  # type 'on'/'off' to choice display donation button at post page or not
+# donation
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 
 # Build settings
