@@ -12,7 +12,7 @@ author:
   name: Ming Huang  
   first_name: Ming  
   last_name: Huang  
-  avatar: /static/assets/img/landing/avatar.jpg  .
+  avatar: /static/assets/img/landing/avatar.jpg
   github_username: mingh2  
   linkedin_id: ming-huang-6329b0117
   #facebook_username:   
@@ -28,8 +28,11 @@ author:
     - name: icon-mobile-device
   desc: |+
     Currently a senior student from the University of California, Irvine, I am studying Computer Science and
+    
     specializing in both Information and Artificial Intelligence. For now, my main interest is artificial 
+    
     intelligence but I have also done researches and projects related to databases and mobile application. 
+    
     This website will tell you everything about me!  
   # Describe yourself.
 
