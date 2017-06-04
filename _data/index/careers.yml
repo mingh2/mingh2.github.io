@@ -5,9 +5,9 @@
     i18n: company_a
   desc:
     detail: 
-    * Developed Android and IOS Applications for UC Irvine Medical School to assist patient taking Warfarin
-    * Implemented dynamic web portal to display patient’s medical history using HTML, CSS and JavaScript
-    * Managed shared database to synchronize patient’s medical history with MongoDB
+        - Developed Android and IOS Applications for UC Irvine Medical School to assist patient taking Warfarin
+        - Implemented dynamic web portal to display patient’s medical history using HTML, CSS and JavaScript
+        - Managed shared database to synchronize patient’s medical history with MongoDB
     i18n: company_a_desc
   date:
     detail: Mar. 2016 - Mar. 2017
