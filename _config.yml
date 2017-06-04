@@ -27,7 +27,8 @@ author:
   skill_icon2:
     - name: icon-shell
     - name: icon-mobile-device
-  desc: Currently a senior student from the University of California, Irvine, I am studying Computer Science and specializing in
+  desc: >
+  Currently a senior student from the University of California, Irvine, I am studying Computer Science and specializing in
   both Information and Artificial Intelligence. Even though my main interest is artificial intelligence, I have done researches
   and projects related to databases and mobile application. This website will tell you everything about me!  # Describe yourself.
 
