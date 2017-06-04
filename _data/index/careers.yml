@@ -5,7 +5,7 @@
     i18n: company_a
   desc:
     detail: |
-        I am responsible for developing Android and IOS Applications for UC Irvine Medical School and implementing 
+        I was responsible for developing Android and IOS Applications for UC Irvine Medical School and implementing 
         dynamic web portal to display database information.
     i18n: company_a_desc
   date:
@@ -17,10 +17,12 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Gentle LLC
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: |
+        My duty was to assist service support to gather project requirements and user experience feedbacks and to implement
+        basic User Authentication and Login System for company’s internal usage
     i18n: company_b_desc
   date:
     detail: Jun. 2015
