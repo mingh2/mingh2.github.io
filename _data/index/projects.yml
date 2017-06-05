@@ -1,12 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Survival Of The Fittest
+- name: "Survival Of The Fittest"
   i18n: cs175
   gh_user: mingh2
   repo: SurvivalOfTheFittest
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is a group project for CS 175: Projects in Artificial Intelligence in Minecraft.
+  desc: "This project is a group project for CS 175: Projects in Artificial Intelligence in Minecraft."
 
 - name: LeetCode
   i18n: leetcode
